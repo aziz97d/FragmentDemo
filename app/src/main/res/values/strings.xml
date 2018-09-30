@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">FragmentDemo</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="names">
+        <item>Abdul Aziz</item>
+        <item>Abu Raihan</item>
+        <item>Mohammad Tahmid</item>
+        <item>Ridwan</item>
+        <item>Omar Faruk</item>
+        <item>Iftekhar Toki</item>
+        <item>Mohammad Azad</item>
+    </string-array>
+</resources>
